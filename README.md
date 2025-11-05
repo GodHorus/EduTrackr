@@ -3,6 +3,9 @@
 **EduTrackr** is a Streamlit-based CRUD (Create, Read, Update, Delete) web application designed to manage student records seamlessly.  
 It uses **MongoDB Atlas** as a cloud database and provides a simple, interactive UI for performing database operations.
 
+🌐 **Hosted App:** [https://edutrackr.streamlit.app/](https://edutrackr.streamlit.app/)
+
+
 ---
 
 ## 🚀 Features
