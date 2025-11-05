@@ -28,3 +28,11 @@ It uses **MongoDB Atlas** as a cloud database and provides a simple, interactive
 
 ## 📁 Project Structure
 
+```bash
+EduTrackr/
+├── app.py                # Main Streamlit app
+├── db/
+│   ├── connection.py     # MongoDB connection setup
+│   └── crud.py           # CRUD operation functions
+├── requirements.txt      # Dependencies
+└── README.md             # Project documentation
